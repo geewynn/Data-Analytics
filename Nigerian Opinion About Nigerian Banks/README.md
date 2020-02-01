@@ -59,4 +59,53 @@ lead to this carrying out this project.
   
   
 ### Gauranty Trust Bank (GTBank)
-- GTbank had more negative tweets from here
+- GTbank had more Neutral tweets from the sample of tweeter tweets. More tweets had no standing and could not be differantiated as positvie or negative.
+ - 50% of tweets are neutral
+ - 33% of tweets are positive
+ - 17% of tweets are negative.
+ 
+ 
+   ![gtbank](https://github.com/geewynn/Data-Analytics/blob/master/Nigerian%20Opinion%20About%20Nigerian%20Banks/images/gt_count.png)
+ 
+ 
+- From the word cloud, we can see that gtbank and gtbank help where more frequent followed by words such as bank, need, money, please etc.
+
+![gtb](https://github.com/geewynn/Data-Analytics/blob/master/Nigerian%20Opinion%20About%20Nigerian%20Banks/images/gt_word.png)
+
+### Zenith Bank
+- From the plots we see that we also had more neutral or non-diffrentiable tweets here.
+ - 51% of the tweets where neutral.
+ - 37% of tweets where positive.
+ - 13% of the tweets are negative.
+ 
+ 
+   ![zen](https://github.com/geewynn/Data-Analytics/blob/master/Nigerian%20Opinion%20About%20Nigerian%20Banks/images/zenit_count.png)
+ 
+ 
+_ The word cloud shows zenith bank as the most frequent and it is accompanied by words like account, bank account, money etc.
+
+   ![zenith](https://github.com/geewynn/Data-Analytics/blob/master/Nigerian%20Opinion%20About%20Nigerian%20Banks/images/zenith_word.png)
+
+### United Bank of Africa
+
+- Here we have more neutral tweets also.
+ - 68% neutral tweets.
+ - 29% positive tweets.
+ - 1% negayive tweets.
+ 
+   ![uba](https://github.com/geewynn/Data-Analytics/blob/master/Nigerian%20Opinion%20About%20Nigerian%20Banks/images/uba%20count.png)
+
+- Looking at the word cloud, we see that uba bank is also the most frequent word.
+   ![uba](https://github.com/geewynn/Data-Analytics/blob/master/Nigerian%20Opinion%20About%20Nigerian%20Banks/images/uba_word.png)
+   
+
+### First Bank of Nigeria
+- Clearly we had more positive words almost a large percentage of tweets where positive.
+  - 92% of the tweets where positive.
+  - 4% where neutral.
+  - 4% where negative.
+  
+  ![first](https://github.com/geewynn/Data-Analytics/blob/master/Nigerian%20Opinion%20About%20Nigerian%20Banks/images/first_count.png)
+  
+- From the word cloud we see words like strategic plan, pledges, support etc.
+  ![fb](https://github.com/geewynn/Data-Analytics/blob/master/Nigerian%20Opinion%20About%20Nigerian%20Banks/images/first_word.png)
