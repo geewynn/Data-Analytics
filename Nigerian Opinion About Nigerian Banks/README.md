@@ -3,6 +3,7 @@
 Whats do Nigerians on Twitter feel about their banks? Particularly the top banks. This question brought the curiousity that 
 lead to this carrying out this project.
 
+- Note that the tweet collected and used is just a sample of the total banking population and can differ if more texts from other platforms are added.
 
 ## Data Collection
 
