@@ -56,3 +56,7 @@ lead to this carrying out this project.
 - Suprisingly, we can see other bank names here. This means other banks where mentioned more frequently in the tweets.
 
   ![access](https://github.com/geewynn/Data-Analytics/blob/master/Nigerian%20Opinion%20About%20Nigerian%20Banks/images/acc_word.png)
+  
+  
+### Gauranty Trust Bank (GTBank)
+- GTbank had more negative tweets from here
